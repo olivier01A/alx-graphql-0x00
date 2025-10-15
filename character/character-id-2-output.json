@@ -1,0 +1,10 @@
+{
+  "data": {
+    "char1": {
+      "id": "2",
+      "name": "Rick Sanchez",
+      "status": "Alive",
+      "species": "Human",
+      "type": "",
+      "gender": "Male"
+    },
