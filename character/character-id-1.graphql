@@ -1,13 +1,10 @@
-
-{
-  "data": {
-    "character": {
-      "id": "1",
-      "name": "Rick Sanchez",
-      "status": "Alive",
-      "species": "Human",
-      "type": "",
-      "gender": "Male"
-    }
+query {
+  character(id: 1) {
+    id
+    name
+    status
+    species
+    type
+    gender
   }
 }
