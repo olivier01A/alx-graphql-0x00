@@ -1,5 +1,5 @@
 query {
-  page1: characters(page: 1) {
+  page2: characters(page: 2) {
     results {
       id
       name
