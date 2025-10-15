@@ -1,0 +1,11 @@
+{
+  "data": {
+    "page1": {
+      "results": [
+        {
+          "id": "1",
+          "name": "Character Name",
+          "status": "Alive",
+          "image": "https://example.com/image1.jpg"
+        }
+        }
